@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I' m Marina, a Junior Developer based in Greece, ✨graduated Computer Science from AUEB, currently working at Quality & Reliability S.A.
+I' m Marina, a Junior Developer based in Greece, ✨graduated Computer Science from AUEB, currently working at Quality & Reliability S.A. & I practise my entrepreneurship skills at BitRezus P.C. as COO.
 
 <!--
 **ntogka/ntogka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
