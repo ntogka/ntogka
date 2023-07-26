@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I' m Marina, a Software Engineer based in Greece, ✨graduated Computer Science from AUEB, I' m currently working at Quality & Reliability S.A.
+I' m Marina, a Software Engineer based in Greece, ✨graduated Computer Science from AUEB.
 
 <!--
 **ntogka/ntogka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
