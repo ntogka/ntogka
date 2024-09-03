@@ -1,7 +1,10 @@
-### Hey there 👋
+Hey! I’m Marina, a Software Engineer and Digital Marketing Specialist based in Greece with a passion for technology. ✨ I hold a degree in Computer Science from AUEB.
 
-I' m Marina, a Software Engineer based in Greece, ✨graduated Computer Science from AUEB.
+Currently:
+- 👨‍💻 Working as a Freelance Digital Marketing Specialist, specializing in WordPress, SEO, and Social Media Management.
+- 💻 Developing software solutions with expertise in Java, SQL, and modern web frameworks.
 
+[Linkedin](https://www.linkedin.com/in/marina-ntogka/)
 <!--
 **ntogka/ntogka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
