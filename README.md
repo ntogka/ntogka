@@ -1,4 +1,4 @@
-Hey! I’m Marina, a Software Engineer and Digital Marketing Specialist based in Greece with a passion for technology. ✨ I hold a degree in Computer Science from AUEB.
+Hey! I’m Marina, a Software Engineer and Digital Marketing Specialist based in Greece with a passion for technology. ✨ I hold a degree in Computer Science from [AUEB](https://www.aueb.gr/en).
 
 Currently:
 - 👨‍💻 Working as a Freelance Digital Marketing Specialist, specializing in WordPress, SEO, and Social Media Management.
