@@ -1,7 +1,7 @@
 Hey! I’m Marina, a Software Engineer and Digital Marketing Specialist based in Greece with a passion for technology. ✨ I hold a Bachelor's degree in Computer Science from [AUEB](https://www.aueb.gr/en).
 
 Currently:
-- 👩‍💻 Software Engineer at [PEOPLE Technology](https://people-t.com/supply-chain) – Thrilled to contribute to cutting-edge supply chain solutions.
+- 👩‍💻 Software Developer at [PEOPLE Technology](https://people-t.com/supply-chain) – Thrilled to contribute to cutting-edge supply chain solutions.
 - 💻 Digital Marketing Specialist, specializing in WordPress, SEO, and Social Media Management.
 
 [Linkedin](https://www.linkedin.com/in/marina-ntogka/)
